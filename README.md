@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gallant-Sage
-- 👀 I’m interested in Coding with Java,Python also a Web Developer
+- 👀 I’m interested in Coding with Java and also a Web Developer
 - 🌱 I’m currently learning some frontend frameworks
 - 💞️ I’m looking to collaborate on Open Source Contributions
 - 📫 How to reach me zayn9874.sb@gmail.com(E-mail) sourabh_is_juice(On Instagram) @125Bisht(On Twitter)
